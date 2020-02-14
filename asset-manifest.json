@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https//jasamik.github.io/react-cibertec/static/css/main.12e04618.chunk.css",
+    "main.js": "https//jasamik.github.io/react-cibertec/static/js/main.06b1412a.chunk.js",
+    "main.js.map": "https//jasamik.github.io/react-cibertec/static/js/main.06b1412a.chunk.js.map",
+    "runtime-main.js": "https//jasamik.github.io/react-cibertec/static/js/runtime-main.aee42a9d.js",
+    "runtime-main.js.map": "https//jasamik.github.io/react-cibertec/static/js/runtime-main.aee42a9d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "https//jasamik.github.io/react-cibertec/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.074ebaf5.chunk.js": "https//jasamik.github.io/react-cibertec/static/js/2.074ebaf5.chunk.js",
+    "static/js/2.074ebaf5.chunk.js.map": "https//jasamik.github.io/react-cibertec/static/js/2.074ebaf5.chunk.js.map",
+    "index.html": "https//jasamik.github.io/react-cibertec/index.html",
+    "precache-manifest.3d5d6a77c6938eb6b686b684805e5c3d.js": "https//jasamik.github.io/react-cibertec/precache-manifest.3d5d6a77c6938eb6b686b684805e5c3d.js",
+    "service-worker.js": "https//jasamik.github.io/react-cibertec/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "https//jasamik.github.io/react-cibertec/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.12e04618.chunk.css.map": "https//jasamik.github.io/react-cibertec/static/css/main.12e04618.chunk.css.map",
+    "static/js/2.074ebaf5.chunk.js.LICENSE": "https//jasamik.github.io/react-cibertec/static/js/2.074ebaf5.chunk.js.LICENSE",
+    "static/media/loading.svg": "https//jasamik.github.io/react-cibertec/static/media/loading.a1e184b8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aee42a9d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.074ebaf5.chunk.js",
+    "static/css/main.12e04618.chunk.css",
+    "static/js/main.06b1412a.chunk.js"
+  ]
+}
